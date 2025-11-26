@@ -1,17 +1,17 @@
 # 👋 Bonjour, moi c'est Ndongo Medoune Ndiaye
 
 🎓 Ingénieur logiciel de formation  
-💻 Développeur fullstack junior - C#/.NET & Java/Spring Boot  
-🌍 Basé a Paris – Ouvert aux opportunités en télétravail ou en France 🇫🇷  
+💻 Développeur Backend - C#/.NET & Cloud Azure
+🌍 Basé a Paris – Ouvert aux opportunités en France 🇫🇷  
 
 ---
 
 ## 🔧 Mes stacks principales
 
-- 🔹 Backend : **C# / .NET Core**, **Java / Spring Boot**
+- 🔹 Backend : **C# / .NET(6+)**, **Entity Framworks**, **LINQ**, **REST**, **gRPC**
 - 🔹 Frontend : **Angular**, **HTML/CSS/JS**, **Sass**
 - 🔹 Base de données : **PostgreSQL**, **SQL Server**, **MySQL**
-- 🔹 Outils : **Git**, **GitHub**, **Docker**, **Azure**, **Postman**, **Azure Devops**
+- 🔹 Outils : **Git**, **GitHub**, **Docker**, **Kubernetes**, **Azure**, **Postman**, **Azure Devops**
 
 ---
 
