@@ -8,7 +8,7 @@
 
 ## 🔧 Mes stacks principales
 
-- 🔹 Backend : **Java**, **Sppring Boot**, **J2EE**, **JPA/Hibernate**, **Api Rest**, **gRPC**, **Microservices**, 
+- 🔹 Backend : **Java**, **Spring Boot**, **JPA/Hibernate**, **Api Rest**, **gRPC**, **Microservices**, 
 - 🔹 Infrastructure/Devops: **Docker**, **Kubernetes**, **Gitlab CI**, **Jenkins**, **SonarQube**, **Grafana**, **Prometheus**
 - 🔹 Frontend : **Angular**, **TypeScript**, **HTML/CSS/JS**, **Sass**
 - 🔹 Base de données : **PostgreSQL**, **SQL Server**, **MySQL**
