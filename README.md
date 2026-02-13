@@ -20,7 +20,7 @@
 
 - 🌐 [Mon portfolio](https://nmndiaye.vercel.app) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ndongo-medoune-ndiaye/)
-- 📧 Me contacter : **ndongomedoune.ndiaye@gmail.com**
+- 📧 Me contacter : **ndongo.m.ndiaye@gmail.com**
 
 
 
