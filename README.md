@@ -79,7 +79,7 @@ A distributed system built with Java & Spring Boot where independent microservic
 
 **Stack:** `Java 21` `Spring Boot` `Apache Kafka` `Keycloak` `PostgreSQL` `Docker`
 
-[![Repo](https://img.shields.io/badge/GitHub-Smart_City_Platform-181717?logo=github)](https://github.com/Med-fitgeek/smart-city-platform)
+[![Repo](https://img.shields.io/badge/GitHub-Smart_City_Platform-181717?logo=github)](https://github.com/Med-fitgeek/springboot-microservices-smart-city-platform)
 
 ---
 
