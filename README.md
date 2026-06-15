@@ -98,9 +98,9 @@ Memorix lets users upload documents (PDF, Markdown, plain text) and instantly ge
 
 <div align="center">
 
-![Ndongo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndongo-ndiaye&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Ndongo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Med-Fitgeek&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndongo-ndiaye&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Med-Fitgeek&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 </div>
 
