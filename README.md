@@ -94,18 +94,6 @@ Memorix lets users upload documents (PDF, Markdown, plain text) and instantly ge
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ndongo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Med-Fitgeek&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Med-Fitgeek&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
-
-</div>
-
----
-
 ## 📬 Let's connect
 
 I'm actively looking for my first role as a software engineer. If you're hiring, collaborating on an open-source project, or just want to talk backend architecture — feel free to reach out.
