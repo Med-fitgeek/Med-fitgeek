@@ -90,7 +90,7 @@ Memorix lets users upload documents (PDF, Markdown, plain text) and instantly ge
 
 **Stack:** `Java 17` `Spring Boot` `Spring AI` `Keycloak` `Angular` `PostgreSQL` `Prometheus` `Grafana`
 
-[![Repo](https://img.shields.io/badge/GitHub-Memorix-181717?logo=github)]([https://github.com/ndongo-ndiaye/memorix](https://github.com/Med-fitgeek/ia-generated-quiz-app-for-test-preparation))
+[![Repo](https://img.shields.io/badge/GitHub-Memorix-181717?logo=github)](https://github.com/Med-fitgeek/ia-generated-quiz-app-for-test-preparation)
 
 ---
 
