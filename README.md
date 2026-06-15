@@ -79,7 +79,7 @@ A distributed system built with Java & Spring Boot where independent microservic
 
 **Stack:** `Java 21` `Spring Boot` `Apache Kafka` `Keycloak` `PostgreSQL` `Docker`
 
-[![Repo](https://img.shields.io/badge/GitHub-Smart_City_Platform-181717?logo=github)](https://github.com/ndongo-ndiaye/smart-city-platform)
+[![Repo](https://img.shields.io/badge/GitHub-Smart_City_Platform-181717?logo=github)]([https://github.com/ndongo-ndiaye/smart-city-platform](https://github.com/Med-fitgeek/smart-city-platform))
 
 ---
 
@@ -90,7 +90,7 @@ Memorix lets users upload documents (PDF, Markdown, plain text) and instantly ge
 
 **Stack:** `Java 17` `Spring Boot` `Spring AI` `Keycloak` `Angular` `PostgreSQL` `Prometheus` `Grafana`
 
-[![Repo](https://img.shields.io/badge/GitHub-Memorix-181717?logo=github)](https://github.com/ndongo-ndiaye/memorix)
+[![Repo](https://img.shields.io/badge/GitHub-Memorix-181717?logo=github)]([https://github.com/ndongo-ndiaye/memorix](https://github.com/Med-fitgeek/ia-generated-quiz-app-for-test-preparation))
 
 ---
 
